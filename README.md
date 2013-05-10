@@ -10,8 +10,7 @@ Backbone.Tuxedo is a composite component library for Backbone.js that
 aims to simplify the construction of large scale JavaScript applications. 
 It is a collection of common design and implementation patterns found in 
 the applications that I (Anthony Howell) have been building with Backbone, 
-and includes various types of components, ranging from polymorphic storage
-components to advanced UI components.
+and includes various types of UI components.
 
 
 ## Source Code And Downloads
