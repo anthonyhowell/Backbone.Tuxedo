@@ -3,6 +3,8 @@
 The saying goes "Underscore is the tie to go along with jQuery's tux, and Backbone.js's suspenders."  
 Well I say Backbone can have its own tux!
 
+<pre>Alpha Status</pre>
+
 
 ## About Tuxedo
 
